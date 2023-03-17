@@ -4,7 +4,7 @@ body {
   }
   
   .jumbotron {
-    background-image: url("/json%20conversion/data%20converter/static/images/world_happiness.jpg");
+    background-image: url("https://chsaporito.github.io/WorldHappinessWeb.github.io/json%20conversion/data%20converter/static/images/world_happiness.jpg");
     background-size: 100% 100%;
     text-align: center;
   }
