@@ -26208,5 +26208,3 @@ var data = [
     "Country name": ""
   }
 ];
-
-//module.exports = data;
