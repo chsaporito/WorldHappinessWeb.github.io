@@ -1,0 +1,21 @@
+
+body {
+    color: #e8e0e3;
+  }
+  
+  .jumbotron {
+    background-image: url("/json%20conversion/data%20converter/static/images/world_happiness.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+  
+  .article-title, .article-p {
+    padding: 20px;
+  }
+  form {
+    padding: 5px;
+  }
+  
+  #filter-btn {
+    width: 100%;
+  }
